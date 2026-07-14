@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-logo="https://github.com/nadifadzhan84/coba/blob/main/LOGO/TVRI%20SPORT%20MAXSTREAM.png?raw=true" group-title="WORLD CUP 2026",TVRI Sport Maxstream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
+https://tencent-css.byteplaycdn.com/f75a4538fed3b3fa5e82dc2c5d936945/6A5726D2/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
