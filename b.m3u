@@ -1,54 +1,93 @@
-buatkan format yang benar di bawah ini:
+#EXTM3U
 
-#EXTINF:-1,TSN Sport 1
+#EXTINF:-1 group-title="Sports",TSN Sport 1
 http://40.160.24.55/TSN_1/index.m3u8
-#EXTINF:-1,TSN Sport 2
+#EXTINF:-1 group-title="Sports",TSN Sport 2
 http://40.160.24.55/TSN_2/index.m3u8
-#EXTINF:-1,TSN Sport 3
+#EXTINF:-1 group-title="Sports",TSN Sport 3
 http://40.160.24.55/TSN_3/index.m3u8
-#EXTINF:-1,TSN Sport 4
+#EXTINF:-1 group-title="Sports",TSN Sport 4
 http://40.160.24.55/TSN_4/index.m3u8
-#EXTINF:-1,TSN Sport 5
+#EXTINF:-1 group-title="Sports",TSN Sport 5
 http://40.160.24.55/TSN_5/index.m3u8
 
+#EXTINF:-1 group-title="Entertainment",ABC TV
 http://212.102.38.45/live/abc_tv/index.m3u8
+#EXTINF:-1 group-title="Music",CMC TV
 http://212.102.38.45/live/cmc_tv/index.m3u8
+#EXTINF:-1 group-title="News",DW TV
 http://212.102.38.45/live/dw_tv/index.m3u8
+#EXTINF:-1 group-title="Sports",Juventus TV
 http://212.102.38.45/live/juventus/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Life TV
 http://212.102.38.45/live/lifetv/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Oxygen
 http://212.102.38.45/live/oxygen/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Prime
 http://212.102.38.45/live/prime/index.m3u8
+#EXTINF:-1 group-title="Sports",Real Madrid TV
 http://212.102.38.45/live/real_madrid_tv/index.m3u8
+#EXTINF:-1 group-title="Sports",Sporty TV
 http://212.102.38.45/live/sporty_tv/index.m3u8
+#EXTINF:-1 group-title="Entertainment",UTV
 http://212.102.38.45/live/utv/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Viasat 3
 http://212.102.38.45/live/viasat3/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Viasat 6
 http://212.102.38.45/live/viasat6/index.m3u8
+#EXTINF:-1 group-title="Movies",Warner TV
 http://212.102.38.45/live/warner_tv/index.m3u8
-http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Cinemax HD
 http://212.102.38.45/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Cinemax 2 HD
 http://212.102.38.45/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",Discovery HD
 http://212.102.38.45/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Movies",HBO HD
 http://212.102.38.45/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Movies",HBO 2 HD
 http://212.102.38.45/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Movies",HBO 3 HD
 http://212.102.38.45/live/test_hbo3_hd_hevc/playlist.m3u8
-http://212.102.38.45/live/test_leo_hd_hevc/playlist.m3u8
-http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
-http://212.102.38.45/live/test_dorcel_xxx_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Fashion",Fashion TV
 http://212.102.38.45/live/test_fashion_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Home TV
 http://212.102.38.45/live/test_home_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Lux TV
 http://212.102.38.45/live/test_lux_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Music",Senzi TV
 http://212.102.38.45/live/test_senzi_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",BTV
 http://212.102.38.45/live/btv_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Religion",EWTN
 http://212.102.38.45/live/ewtn_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Movies",FilmBox
 http://212.102.38.45/live/filmbox_atk_1200/playlist.m3u8
-http://212.102.38.45/live/golf_channel_atk_1200/playlist.m3u8
-http://212.102.38.45/live/mdr_atk_1200/playlist.m3u8
-http://212.102.38.45/live/ndr_atk_1200/playlist.m3u8
-http://212.102.38.45/live/nickelodeon_atk_1200/playlist.m3u8
-http://212.102.38.45/live/amc_25p/playlist.m3u8
+#EXTINF:-1 group-title="Movies",FilmBox HD
 http://212.102.38.45/live/filmbox_hd_25p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Golf Channel
+http://212.102.38.45/live/golf_channel_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",MDR
+http://212.102.38.45/live/mdr_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",NDR
+http://212.102.38.45/live/ndr_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Nickelodeon
+http://212.102.38.45/live/nickelodeon_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Movies",AMC
+http://212.102.38.45/live/amc_25p/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",Spektrum HD
 http://212.102.38.45/live/spektrum_hd_25p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sport 1
 http://212.102.38.45/live/sport1_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="XXX",Brazzers HD
+http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",Leo HD
+http://212.102.38.45/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",Dorcel HD
+http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",Dorcel XXX
+http://212.102.38.45/live/test_dorcel_xxx_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Arena Sport 1" tvg-name="Arena Sport 1 " tvg-logo="http://46.36.40.22/1023/arenasport1.png" group-title="Športové",Arena Sport 1
 http://212.102.38.45/live/test_arenasport/playlist.m3u8
@@ -78,281 +117,227 @@ http://212.102.38.45/live/test_joj_sport_hd_hevc/playlist.m3u8
 http://212.102.38.45/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport2" tvg-name="Sport2 " tvg-logo="http://46.36.40.22/1023/sport2.png" group-title="Športové",Sport2
 http://212.102.38.45/live/test_sport_2/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://46.36.40.22/1023/eurosport1.png" group-title="Športové",Eurosport 1
-http://212.102.38.45/live/eurosport_1_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://46.36.40.22/1023/eurosport2.png" group-title="Športové",Eurosport 2
-http://212.102.38.45/live/eurosport_2_1200_atk/playlist.m3u8
 
-1 bein sports 1
+#EXTINF:-1 group-title="Deportivo",beIN Sports 1
 https://futbol9865.ultratv13.workers.dev/deportivo111/1.m3u8
-
-2 ligue 1+ 5
+#EXTINF:-1 group-title="Deportivo",Ligue 1+ 5
 https://futbol9865.ultratv13.workers.dev/deportivo111/2.m3u8
-
-3 bein sports 3
+#EXTINF:-1 group-title="Deportivo",beIN Sports 3
 https://futbol9865.ultratv13.workers.dev/deportivo111/3.m3u8
-
-4 bein sports 4
+#EXTINF:-1 group-title="Deportivo",beIN Sports 4
 https://futbol9865.ultratv13.workers.dev/deportivo111/4.m3u8
-
-5 bein sports 5
+#EXTINF:-1 group-title="Deportivo",beIN Sports 5
 https://futbol9865.ultratv13.workers.dev/deportivo111/5.m3u8
-
-6 bein sports 6
+#EXTINF:-1 group-title="Deportivo",beIN Sports 6
 https://futbol9865.ultratv13.workers.dev/deportivo111/6.m3u8
-
-7 bein sports 7
+#EXTINF:-1 group-title="Deportivo",beIN Sports 7
 https://futbol9865.ultratv13.workers.dev/deportivo111/7.m3u8
-
-8 bein sports 8
+#EXTINF:-1 group-title="Deportivo",beIN Sports 8
 https://futbol9865.ultratv13.workers.dev/deportivo111/8.m3u8
-
-9 bein sports 9
+#EXTINF:-1 group-title="Deportivo",beIN Sports 9
 https://futbol9865.ultratv13.workers.dev/deportivo111/9.m3u8
-
-10 bein sports 10
+#EXTINF:-1 group-title="Deportivo",beIN Sports 10
 https://futbol9865.ultratv13.workers.dev/deportivo111/10.m3u8
-
-12 +foot
+#EXTINF:-1 group-title="Deportivo",+Foot
 https://futbol9865.ultratv13.workers.dev/deportivo111/12.m3u8
-
-53 liga tv hypermotion
+#EXTINF:-1 group-title="Deportivo",Liga TV Hypermotion
 https://futbol9865.ultratv13.workers.dev/deportivo111/53.m3u8
-
-56 DAZN 1
+#EXTINF:-1 group-title="Deportivo",DAZN 1
 https://futbol9865.ultratv13.workers.dev/deportivo111/56.m3u8
-
-68 TUDN
+#EXTINF:-1 group-title="Deportivo",TUDN
 https://futbol9865.ultratv13.workers.dev/deportivo111/68.m3u8
-
-70 Fox deportes
+#EXTINF:-1 group-title="Deportivo",Fox Deportes
 https://futbol9865.ultratv13.workers.dev/deportivo111/70.m3u8
-
-71 Espn deportes mx
+#EXTINF:-1 group-title="Deportivo",ESPN Deportes MX
 https://futbol9865.ultratv13.workers.dev/deportivo111/71.m3u8
-
-72 universo
+#EXTINF:-1 group-title="Deportivo",Universo
 https://futbol9865.ultratv13.workers.dev/deportivo111/72.m3u8
-
-73 Telemundo
+#EXTINF:-1 group-title="Deportivo",Telemundo
 https://futbol9865.ultratv13.workers.dev/deportivo111/73.m3u8
-
-74 IAS
+#EXTINF:-1 group-title="Deportivo",IAS
 https://futbol9865.ultratv13.workers.dev/deportivo111/74.m3u8
-
-75 tnt premium
+#EXTINF:-1 group-title="Deportivo",TNT Premium
 https://futbol9865.ultratv13.workers.dev/deportivo111/75.m3u8
-
-76 ESPN
+#EXTINF:-1 group-title="Deportivo",ESPN
 https://futbol9865.ultratv13.workers.dev/deportivo111/76.m3u8
-
-77 tyc soports
+#EXTINF:-1 group-title="Deportivo",TyC Sports
 https://futbol9865.ultratv13.workers.dev/deportivo111/77.m3u8
-
-78 Fox sports
+#EXTINF:-1 group-title="Deportivo",Fox Sports
 https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
-
-79 Fox sports 2
+#EXTINF:-1 group-title="Deportivo",Fox Sports 2
 https://futbol9865.ultratv13.workers.dev/deportivo111/79.m3u8
-
-80 Fox sports 3
+#EXTINF:-1 group-title="Deportivo",Fox Sports 3
 https://futbol9865.ultratv13.workers.dev/deportivo111/80.m3u8
-
-81 win sports +
+#EXTINF:-1 group-title="Deportivo",Win Sports +
 https://futbol9865.ultratv13.workers.dev/deportivo111/81.m3u8
-
-82 win sports
+#EXTINF:-1 group-title="Deportivo",Win Sports
 https://futbol9865.ultratv13.workers.dev/deportivo111/82.m3u8
-
-83 tnt sports premium
+#EXTINF:-1 group-title="Deportivo",TNT Sports Premium
 https://futbol9865.ultratv13.workers.dev/deportivo111/83.m3u8
-
-84 L1 MAX
+#EXTINF:-1 group-title="Deportivo",L1 MAX
 https://futbol9865.ultratv13.workers.dev/deportivo111/84.m3u8
-
-87 Espn ar
+#EXTINF:-1 group-title="Deportivo",ESPN AR
 https://futbol9865.ultratv13.workers.dev/deportivo111/87.m3u8
-
-88 Espn 2
+#EXTINF:-1 group-title="Deportivo",ESPN 2
 https://futbol9865.ultratv13.workers.dev/deportivo111/88.m3u8
-
-89 Espn 3
+#EXTINF:-1 group-title="Deportivo",ESPN 3
 https://futbol9865.ultratv13.workers.dev/deportivo111/89.m3u8
-
-90 Espn 4
+#EXTINF:-1 group-title="Deportivo",ESPN 4
 https://futbol9865.ultratv13.workers.dev/deportivo111/90.m3u8
-
-91 Espn 5
+#EXTINF:-1 group-title="Deportivo",ESPN 5
 https://futbol9865.ultratv13.workers.dev/deportivo111/91.m3u8
-
-92 Espn 6
+#EXTINF:-1 group-title="Deportivo",ESPN 6
 https://futbol9865.ultratv13.workers.dev/deportivo111/92.m3u8
-
-93 Espn 7
+#EXTINF:-1 group-title="Deportivo",ESPN 7
 https://futbol9865.ultratv13.workers.dev/deportivo111/93.m3u8
-
-94 dsports
+#EXTINF:-1 group-title="Deportivo",DSports
 https://futbol9865.ultratv13.workers.dev/deportivo111/94.m3u8
-
-95 DSports 2
+#EXTINF:-1 group-title="Deportivo",DSports 2
 https://futbol9865.ultratv13.workers.dev/deportivo111/95.m3u8
-
-96 DSports +
+#EXTINF:-1 group-title="Deportivo",DSports +
 https://futbol9865.ultratv13.workers.dev/deportivo111/96.m3u8
-
-97 Espn mx
+#EXTINF:-1 group-title="Deportivo",ESPN MX
 https://futbol9865.ultratv13.workers.dev/deportivo111/97.m3u8
-
-98 Espn 2 mx
+#EXTINF:-1 group-title="Deportivo",ESPN 2 MX
 https://futbol9865.ultratv13.workers.dev/deportivo111/98.m3u8
-
-99 Espn 3 mx
+#EXTINF:-1 group-title="Deportivo",ESPN 3 MX
 https://futbol9865.ultratv13.workers.dev/deportivo111/99.m3u8
-
-100 Espn 4 MX
+#EXTINF:-1 group-title="Deportivo",ESPN 4 MX
 https://futbol9865.ultratv13.workers.dev/deportivo111/100.m3u8
-
-101 Fox sports
+#EXTINF:-1 group-title="Deportivo",Fox Sports MX
 https://futbol9865.ultratv13.workers.dev/deportivo111/101.m3u8
-
-102 Fox sports 2
+#EXTINF:-1 group-title="Deportivo",Fox Sports 2 MX
 https://futbol9865.ultratv13.workers.dev/deportivo111/102.m3u8
-
-103 Fox sports 3
+#EXTINF:-1 group-title="Deportivo",Fox Sports 3 MX
 https://futbol9865.ultratv13.workers.dev/deportivo111/103.m3u8
-
-104 Fs premium
+#EXTINF:-1 group-title="Deportivo",Fox Sports Premium
 https://futbol9865.ultratv13.workers.dev/deportivo111/104.m3u8
-
-105 AYM
+#EXTINF:-1 group-title="Deportivo",AYM
 https://futbol9865.ultratv13.workers.dev/deportivo111/105.m3u8
-
-106 TUDN OP2
+#EXTINF:-1 group-title="Deportivo",TUDN OP2
 https://futbol9865.ultratv13.workers.dev/deportivo111/106.m3u8
-
-107 TUDN OP3
+#EXTINF:-1 group-title="Deportivo",TUDN OP3
 https://futbol9865.ultratv13.workers.dev/deportivo111/107.m3u8
-
-108 azteca 7
+#EXTINF:-1 group-title="Deportivo",Azteca 7
 https://futbol9865.ultratv13.workers.dev/deportivo111/108.m3u8
-
-133 DAZN
+#EXTINF:-1 group-title="Deportivo",DAZN 155
 https://futbol9865.ultratv13.workers.dev/deportivo111/155.m3u8
-
-134 DAZN
+#EXTINF:-1 group-title="Deportivo",DAZN 156
 https://futbol9865.ultratv13.workers.dev/deportivo111/156.m3u8
 
-[7/14/2026 2:59 PM] akamaized: #EXTINF:-1,BHT 1
+#EXTINF:-1 group-title="Balkan",BHT 1
 http://51.195.6.191:8080/BHT1/index.m3u8?token=test
-#EXTINF:-1,Nova BH
+#EXTINF:-1 group-title="Balkan",Nova BH
 http://51.195.6.191:8080/NovaBH/index.m3u8?token=test
-#EXTINF:-1,Pink BH
+#EXTINF:-1 group-title="Balkan",Pink BH
 http://51.195.6.191:8080/PinkBH/index.m3u8?token=test
-#EXTINF:-1,HRT 1 HD
+#EXTINF:-1 group-title="Balkan",HRT 1 HD
 http://51.195.6.191:8080/HRT1/index.m3u8?token=test
-#EXTINF:-1,HRT 2 HD
+#EXTINF:-1 group-title="Balkan",HRT 2 HD
 http://51.195.6.191:8080/HRT2/index.m3u8?token=test
-#EXTINF:-1,HRT 3 HD
+#EXTINF:-1 group-title="Balkan",HRT 3 HD
 http://51.195.6.191:8080/HRT3/index.m3u8?token=test
-#EXTINF:-1,HRT 4 HD
+#EXTINF:-1 group-title="Balkan",HRT 4 HD
 http://51.195.6.191:8080/HRT4/index.m3u8?token=test
-#EXTINF:-1,RTS 2 HD
+#EXTINF:-1 group-title="Balkan",RTS 2 HD
 http://51.195.6.191:8080/RTS2HD/index.m3u8?token=test
-#EXTINF:-1,RTS 3 HD
+#EXTINF:-1 group-title="Balkan",RTS 3 HD
 http://51.195.6.191:8080/RTS3HD/index.m3u8?token=test
-#EXTINF:-1,MRT 2 HD
+#EXTINF:-1 group-title="Balkan",MRT 2 HD
 http://51.195.6.191:8080/MRT2HD/index.m3u8?token=test
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="Balkan",HBO HD
 http://51.195.6.191:8080/HBOHD/index.m3u8?token=test
-#EXTINF:-1,HBO 2 HD
+#EXTINF:-1 group-title="Balkan",HBO 2 HD
 http://51.195.6.191:8080/HBO2/index.m3u8?token=test
-#EXTINF:-1,HBO 3 HD
+#EXTINF:-1 group-title="Balkan",HBO 3 HD
 http://51.195.6.191:8080/HBO3/index.m3u8?token=test
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1 group-title="Balkan",Cinemax HD
 http://51.195.6.191:8080/Cinemax1/index.m3u8?token=test
-#EXTINF:-1,Cinemax 2 HD
+#EXTINF:-1 group-title="Balkan",Cinemax 2 HD
 http://51.195.6.191:8080/Cinemax2/index.m3u8?token=test
-#EXTINF:-1,Cinestar Action
+#EXTINF:-1 group-title="Balkan",Cinestar Action
 http://51.195.6.191:8080/CinestarAction/index.m3u8?token=test
-#EXTINF:-1,Cinestar Fantasy
+#EXTINF:-1 group-title="Balkan",Cinestar Fantasy
 http://51.195.6.191:8080/CinestarFantasy/index.m3u8?token=test
-#EXTINF:-1,Cinestar Comedy
+#EXTINF:-1 group-title="Balkan",Cinestar Comedy
 http://51.195.6.191:8080/CinestarComedy/index.m3u8?token=test
-#EXTINF:-1,Pink Western
+#EXTINF:-1 group-title="Balkan",Pink Western
 http://51.195.6.191:8080/PinkWestern/index.m3u8?token=test
-#EXTINF:-1,Pink Premium HD
+#EXTINF:-1 group-title="Balkan",Pink Premium HD
 http://51.195.6.191:8080/PinkPremium/index.m3u8?token=test
-#EXTINF:-1,Pink World Cinema
+#EXTINF:-1 group-title="Balkan",Pink World Cinema
 http://51.195.6.191:8080/PinkWorldCinema/index.m3u8?token=test
-#EXTINF:-1,Pink Romance
+#EXTINF:-1 group-title="Balkan",Pink Romance
 http://51.195.6.191:8080/PinkRomance/index.m3u8?token=test
-#EXTINF:-1,Pink Thriller
+#EXTINF:-1 group-title="Balkan",Pink Thriller
 http://51.195.6.191:8080/PinkThriller/index.m3u8?token=test
-#EXTINF:-1,Pink Serije
+#EXTINF:-1 group-title="Balkan",Pink Serije
 http://51.195.6.191:8080/PinkSerije/index.m3u8?token=test
-#EXTINF:-1,Pink Plus Elita
+#EXTINF:-1 group-title="Balkan",Pink Plus Elita
 http://51.195.6.191:8080/PinkPlus/index.m3u8?token=test
-#EXTINF:-1,Pink Soap
+#EXTINF:-1 group-title="Balkan",Pink Soap
 http://51.195.6.191:8080/PinkSoap/index.m3u8?token=test
-#EXTINF:-1,Pink Family
+#EXTINF:-1 group-title="Balkan",Pink Family
 http://51.195.6.191:8080/PinkFamily/index.m3u8?token=test
-#EXTINF:-1,Pink Action
+#EXTINF:-1 group-title="Balkan",Pink Action
 http://51.195.6.191:8080/PinkAction/index.m3u8?token=test
-#EXTINF:-1,Pink Comedy
+#EXTINF:-1 group-title="Balkan",Pink Comedy
 http://51.195.6.191:8080/PinkComedy/index.m3u8?token=test
-#EXTINF:-1,Viasat Nature
+#EXTINF:-1 group-title="Balkan",Viasat Nature
 http://51.195.6.191:8080/ViasatNature/index.m3u8?token=test
-#EXTINF:-1,Viasat Explorer HD
+#EXTINF:-1 group-title="Balkan",Viasat Explorer HD
 http://51.195.6.191:8080/ViasatExplorer/index.m3u8?token=test
-#EXTINF:-1,Viasat History HD
+#EXTINF:-1 group-title="Balkan",Viasat History HD
 http://51.195.6.191:8080/ViasatHistory/index.m3u8?token=test
-#EXTINF:-1,NatGeo Wild HD
+#EXTINF:-1 group-title="Balkan",NatGeo Wild HD
 http://51.195.6.191:8080/NatGeoWild/index.m3u8?token=test
-#EXTINF:-1,OBN HD
+#EXTINF:-1 group-title="Balkan",OBN HD
 http://51.195.6.191:8080/OBN/index.m3u8?token=test
-[7/14/2026 3:00 PM] akamaized: #EXTINF:-1,TVN HD
+
+#EXTINF:-1 group-title="Global",TVN HD
 http://94.155.93.182:80/TVN_HD/index.m3u8?token=test
-#EXTINF:-1,RAI STORIA HD
+#EXTINF:-1 group-title="Global",RAI STORIA HD
 http://94.155.93.182:80/RAI_STORIA_HD/index.m3u8?token=test
-#EXTINF:-1,POBEDA HD
+#EXTINF:-1 group-title="Global",POBEDA HD
 http://94.155.93.182:80/POBEDA_HD/index.m3u8?token=test
-#EXTINF:-1,EPIC DRAMA
+#EXTINF:-1 group-title="Global",EPIC DRAMA
 http://94.155.93.182:80/EPIC_DRAMA/index.m3u8?token=test
-#EXTINF:-1,FIGHT CLUB HD
+#EXTINF:-1 group-title="Global",FIGHT CLUB HD
 http://94.155.93.182:80/THE_WORLD_HD/index.m3u8?token=test
-#EXTINF:-1,TRACE SPORT STARS HD
+#EXTINF:-1 group-title="Global",TRACE SPORT STARS HD
 http://94.155.93.182:80/TRACE_SPORT_STARS_HD/index.m3u8?token=test
-#EXTINF:-1,ATVS SD
+#EXTINF:-1 group-title="Global",ATVS SD
 http://94.155.93.182:80/ATV_SD/index.m3u8?token=test
-#EXTINF:-1,BABY TV SD
+#EXTINF:-1 group-title="Global",BABY TV SD
 http://94.155.93.182:80/BABY_TV_SD/index.m3u8?token=test
-#EXTINF:-1,HRT INT SD
+#EXTINF:-1 group-title="Global",HRT INT SD
 http://94.155.93.182:80/HRT_INT_SD/index.m3u8?token=test
-#EXTINF:-1,MIR SERIALA SD
+#EXTINF:-1 group-title="Global",MIR SERIALA SD
 http://94.155.93.182:80/MIR_SERIALA_SD/index.m3u8?token=test
-#EXTINF:-1,NASHA TV SD
+#EXTINF:-1 group-title="Global",NASHA TV SD
 http://94.155.93.182:80/NASHA_TV_SD/index.m3u8?token=test
-#EXTINF:-1,AGRO TV HD
+#EXTINF:-1 group-title="Global",AGRO TV HD
 http://94.155.93.182:80/RTL_NITRO_SD/index.m3u8?token=test
-#EXTINF:-1,SUPER RTL SD
+#EXTINF:-1 group-title="Global",SUPER RTL SD
 http://94.155.93.182:80/SUPER_RTL_SD/index.m3u8?token=test
-#EXTINF:-1,CLASSICAL HARMONY HD
+#EXTINF:-1 group-title="Global",CLASSICAL HARMONY HD
 http://94.155.93.182:80/CLASSICAL_HARMONY_APPS/index.m3u8?token=test
-#EXTINF:-1,ENGLISH CLUB HD
+#EXTINF:-1 group-title="Global",ENGLISH CLUB HD
 http://94.155.93.182:80/ENGLISHCLUBHD_APPS/index.m3u8?token=test
-#EXTINF:-1,SAFARI_CHANNEL HD
+#EXTINF:-1 group-title="Global",SAFARI CHANNEL HD
 http://94.155.93.182:80/SAFARI_CHANNEL/index.m3u8?token=test
-#EXTINF:-1,INVIVO AUTOS HD
+#EXTINF:-1 group-title="Global",INVIVO AUTOS HD
 http://94.155.93.182:80/INVIVO_AUTOS/index.m3u8?token=test
-#EXTINF:-1,INVIVO EXTREME HD
+#EXTINF:-1 group-title="Global",INVIVO EXTREME HD
 http://94.155.93.182:80/INVIVO_EXTREME/index.m3u8
-#EXTINF:-1,CODE FASHION
+#EXTINF:-1 group-title="Global",CODE FASHION
 http://94.155.93.182:80/Codefashion_5500/index.m3u8?token=test
-#EXTINF:-1,CODE Fashion TV
+#EXTINF:-1 group-title="Global",CODE Fashion TV
 http://94.155.93.182:80/Codefashion_5500/index.m3u8?token=test
-#EXTINF:-1,Code Health TV
+#EXTINF:-1 group-title="Global",Code Health TV
 http://94.155.93.182:80/codehealth_test/index.m3u8?token=test
-#EXTINF:-1,CENTOXCENTO
+
+#EXTINF:-1 group-title="XXX",CENTOXCENTO
 http://94.155.93.182:80/CENTOXCENTO/index.m3u8?token=test
-#EXTINF:-1,PASSIONXXX HD
+#EXTINF:-1 group-title="XXX",PASSIONXXX HD
 http://94.155.93.182:80/PASSIONXXX/index.m3u8?token=test
