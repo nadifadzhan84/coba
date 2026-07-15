@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:11,BWF WF-A C1 BISS-1
+http://45.9.44.143:5020/play/a0f4/index.m3u8
+#EXTINF:11,Diema Sport HD
+http://45.9.44.143:5020/play/a038/index.m3u8
+#EXTINF:0,MAX Sport 1 HD
+http://45.9.44.143:5020/play/1f0a/index.m3u8
+#EXTINF:0,MAX Sport 2 HD
+http://45.9.44.143:5020/play/rvgu/index.m3u8
+#EXTINF:0,MAX Sport 3 HD
+http://45.9.44.143:5020/play/yuk1/index.m3u8
+#EXTINF:0,MAX Sport 4 HD
+http://45.9.44.143:5020/play/a04a/index.m3u8
+#EXTINF:0,Polsat Sport Premium 1
+http://45.9.44.143:5020/play/a08x/index.m3u8
+#EXTINF:0,Polsat Sport Premium 2
+http://45.9.44.143:5020/play/a08y/index.m3u8
