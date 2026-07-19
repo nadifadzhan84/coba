@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/307.png" x-spion-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Citra_Entertainment_logo.png/512px-Citra_Entertainment_logo.png" group-title="INDONESIA TV" x-source="copas" tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" ,CITRA ENTERTAINMENT
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WN87OwYixGI/YJZOaUPWAMI/AAAAAAAAEqE/-R2XLyKQ5yIgT-zTqW4K3XCtv4zTS8nXACLcBGAsYHQ/s720/CitraDrama-pos.png" x-spion-logo="https://mimipipi22.github.io/logo/entertainment/citradrama.jpg" group-title="INDONESIA TV" x-source="copas" tvg-id="Chinese.Drama.id" tvg-name="Citra Drama" ,CITRA DRAMA
+#http://202.169.224.202:8800/udp/239.9.1.12:1234
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
+
+
+#EXTINF:0 tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/307.png" x-spion-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/307.png" group-title="INDONESIA TV" x-source="copas" tvg-id="CitraEntertainmentHD" tvg-name="Citra Entertainment HD" ,Citra Entertainment HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
+#EXTINF:0 tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/292.png" x-spion-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/292.png" group-title="INDONESIA TV" x-source="copas" tvg-id="CitraMuslimHD" tvg-name="Citra Muslim HD" ,Citra Muslim HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
+#EXTINF:0 tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/96.png" x-spion-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/96.png" group-title="INDONESIA TV" x-source="copas" tvg-id="CitraBioskopHD" tvg-name="Citra Bioskop HD" ,Citra Bioskop HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=9b38e1c314683b19b24ff22500f35a17:5e49fbc62e04d34d2ba0e1ce7c9c62c6
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/newmpd/CitraBioskopHD.mpd
+
+#EXTINF:0 tvg-logo="https://images.indihometv.com/assets/88_CITRADANGDUT_2025_03_17_14_47_14.png" x-spion-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/244.png" group-title="INDONESIA TV" x-source="copas" tvg-id="CitraDangdutHD" tvg-name="Citra Dangdut HD" ,Citra Dangdut HD
+#http://202.169.224.202:8800/udp/239.9.1.13:1234
