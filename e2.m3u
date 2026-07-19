@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Unifi TV" tvg-logo="" group-title="UNIFI",Unifi TV 🇲🇾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.api.tm.quickplay.com/getlicense?service=tm&version=1.0&kid=EEA0828C-38D7-4407-A5C3-84AD730D7224&ptoken=eyJjb250ZW50SWQiOiJFRUEwODI4Qy0zOEQ3LTQ0MDctQTVDMy04NEFENzMwRDcyMjQiLCJsaWNlbnNlRXhwaXJ5VGltZSI6MTc4NDU5NjAxNjQ2MiwiZW50aXRsZWRDb250ZW50SWRzIjoiUlVWQk1EZ3lPRU10TXpoRU55MDBOREEzTFVFMVF6TXRPRFJCUkRjek1FUTNNakkwIiwibWF4VXNlcyI6MSwic2lnbmF0dXJlIjoiNDYzNzAzNTNiNDgxYWFkYTZmYTUxMDE3YmUyNjU2NThlMTY3ZDgyYTZmZTc0ZGJmOTRiNzIwMTY1MDliZmExMyIsInVuaXF1ZUlkIjoiODU2N2I2OGQtZDQ5NC00MzFjLTlhMTUtZmU1MWQ3ZjExOTFjIiwiaXNzdWVyIjoiU0lHTktFWV9QVE9LRU5fQ09OU1VNRV9JU1NVRVIiLCJhcGlLZXkiOiJhcGlLZXkiLCJrZXlWZXJzaW9uIjoidmVyczAxIiwiZXhwaXJ5VGltZSI6MTc4NDQyMzI3NjQ2MiwiY3JlYXRlZFRpbWUiOjE3ODQ0MjMyMTY0NjIsInRva2VuTW9kZWxWZXJzaW9uIjoiVjMifQ==
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(TV9)/master.mpd?hdntl=st=1784423156~exp=1784513156~acl=/Content/DASH/Live/channel(TV9)/*~id=RBslVR5GVVFo37Kj8JtEQiKZe8fYuIPG6R0xw3st0EE~hmac=ae7f8de11a14c29db9aebd147ebbaec49e91d6a5c37a942cba44a163a71b5891
+
+#EXTINF:-1 tvg-id="Unifi Sports 1" tvg-logo="" group-title="UNIFI",Unifi Sports 1 🇲🇾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.api.tm.quickplay.com/getlicense?service=tm&version=1.0&kid=90C7EB5D-66B4-42A9-A591-775CC1154BC9&ptoken=eyJjb250ZW50SWQiOiI5MEM3RUI1RC02NkI0LTQyQTktQTU5MS03NzVDQzExNTRCQzkiLCJsaWNlbnNlRXhwaXJ5VGltZSI6MTc4NDQyMzMwNDY1NywiZW50aXRsZWRDb250ZW50SWRzIjoiT1RCRE4wVkNOVVF0TmpaQ05DMDBNa0U1TFVFMU9URXROemMxUTBNeE1UVTBRa001IiwibWF4VXNlcyI6MSwic2lnbmF0dXJlIjoiYmI5NDUwN2RhZDI5YjAxN2RkYjFmZTQzNTliZWJmYjk3YmU5NjQ3NTk4M2JjMmYyNTcwMmQ0YjNkNjk2OWQ1ZSIsInVuaXF1ZUlkIjoiODU2N2I2OGQtZDQ5NC00MzFjLTlhMTUtZmU1MWQ3ZjExOTFjIiwiaXNzdWVyIjoiU0lHTktFWV9QVE9LRU5fQ09OU1VNRV9JU1NVRVIiLCJhcGlLZXkiOiJhcGlLZXkiLCJrZXlWZXJzaW9uIjoidmVyczAxIiwiZXhwaXJ5VGltZSI6MTc4NDQyMzMwNDY1NywiY3JlYXRlZFRpbWUiOjE3ODQ0MjMyNDQ2NTcsInRva2VuTW9kZWxWZXJzaW9uIjoiVjMifQ==
+https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(unifi1)/master.mpd?hdntl=st=1784423184~exp=1784513184~acl=/Content/DASH/Live/channel(unifi1)/*~id=RBslVR5GVVFo37Kj8JtEQiKZe8fYuIPG6R0xw3st0EE~hmac=20996857c6fd763597d71659623ce2fc38c55bd9b6b554357db2f8c6718943b1
