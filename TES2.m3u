@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://github.com/nadifadzhan84/coba/blob/main/LOGO/BWF.png?raw=true" group-title="BADMINTON",COURT 1 A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://wakacha.github.io/
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4271159925167061_AiHD.m3u8?txSecret=865bed56af439fc9840cd75e54be5c87&txTime=6A669F80

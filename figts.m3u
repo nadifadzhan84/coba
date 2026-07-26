@@ -1,8 +1,0 @@
-#EXTM3U
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTc4NDc5MzQ4NywiaWF0IjoxNzg0NzkyODg3LCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiZDdjMjllMTAtMzYzNC00ZGRiLTk2MDktMzgwN2I2ZDBjZjBiIiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0Ijp0cnVlLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwfX0sInN1YiI6IjAwMDAwMDAwMDAwMDAwMDAwMTIxIiwic3Vic2NyaWJlciI6ImFub255bW91cyIsInZlciI6MX0.-doUwM-YC01NpfBFAOXKz74dYk1SjIUb8qAZK5hfNCketrC4UBgl_fPLgxaxFYr7mX7qoFUpqMEW2JsUWTzM5Q
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="SPORTS" tvg-id="FightSports.id" tvg-name="Fight Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnIQ_y155PqddsykkYJfnBonzaFUj-DK9KteFk5m94mw&s=10",Fight Sports
-https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
