@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="moji_1080" tvg-name="MOJI 1080p (7.0Mbps)" tvg-logo="https://www.vidio.com/favicon.ico" group-title="Vidio",MOJI 1080p (7.0Mbps)
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/stream.mpd?hdntl=exp=1785485213~acl=%2fstream%2f206%2ffile%2fstream.mpd!%2fstream%2f206%2ffile%2f*%2faac%2f*!%2fstream%2f206%2ffile%2f*%2f*-2160p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1440p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f206%2ffile%2f*%2f*-720p%2f*!%2fstream%2f206%2ffile%2f*%2f*-480p%2f*!%2fstream%2f206%2ffile%2f*%2f*-360p%2f*~id=90991601~data=hdntl~hmac=345afd9b081b0dd10cb59c6a10e8eb3e0801c748f34a1c56b75674aab029d88d
+
+#EXTINF:-1 tvg-id="moji_1080" tvg-name="MOJI 1080p (5.6Mbps)" tvg-logo="https://www.vidio.com/favicon.ico" group-title="Vidio",MOJI 1080p (5.6Mbps)
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/stream.mpd?hdntl=exp=1785485213~acl=%2fstream%2f206%2ffile%2fstream.mpd!%2fstream%2f206%2ffile%2f*%2faac%2f*!%2fstream%2f206%2ffile%2f*%2f*-2160p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1440p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f206%2ffile%2f*%2f*-720p%2f*!%2fstream%2f206%2ffile%2f*%2f*-480p%2f*!%2fstream%2f206%2ffile%2f*%2f*-360p%2f*~id=90991601~data=hdntl~hmac=345afd9b081b0dd10cb59c6a10e8eb3e0801c748f34a1c56b75674aab029d88d
+
+#EXTINF:-1 tvg-id="moji_720" tvg-name="MOJI 720p (3.8Mbps)" tvg-logo="https://www.vidio.com/favicon.ico" group-title="Vidio",MOJI 720p (3.8Mbps)
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/stream.mpd?hdntl=exp=1785485213~acl=%2fstream%2f206%2ffile%2fstream.mpd!%2fstream%2f206%2ffile%2f*%2faac%2f*!%2fstream%2f206%2ffile%2f*%2f*-2160p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1440p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f206%2ffile%2f*%2f*-720p%2f*!%2fstream%2f206%2ffile%2f*%2f*-480p%2f*!%2fstream%2f206%2ffile%2f*%2f*-360p%2f*~id=90991601~data=hdntl~hmac=345afd9b081b0dd10cb59c6a10e8eb3e0801c748f34a1c56b75674aab029d88d
+
+#EXTINF:-1 tvg-id="moji_720" tvg-name="MOJI 720p (2.8Mbps)" tvg-logo="https://www.vidio.com/favicon.ico" group-title="Vidio",MOJI 720p (2.8Mbps)
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/stream.mpd?hdntl=exp=1785485213~acl=%2fstream%2f206%2ffile%2fstream.mpd!%2fstream%2f206%2ffile%2f*%2faac%2f*!%2fstream%2f206%2ffile%2f*%2f*-2160p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1440p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f206%2ffile%2f*%2f*-720p%2f*!%2fstream%2f206%2ffile%2f*%2f*-480p%2f*!%2fstream%2f206%2ffile%2f*%2f*-360p%2f*~id=90991601~data=hdntl~hmac=345afd9b081b0dd10cb59c6a10e8eb3e0801c748f34a1c56b75674aab029d88d
+
+#EXTINF:-1 tvg-id="moji_480" tvg-name="MOJI 480p (1.5Mbps)" tvg-logo="https://www.vidio.com/favicon.ico" group-title="Vidio",MOJI 480p (1.5Mbps)
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/stream.mpd?hdntl=exp=1785485213~acl=%2fstream%2f206%2ffile%2fstream.mpd!%2fstream%2f206%2ffile%2f*%2faac%2f*!%2fstream%2f206%2ffile%2f*%2f*-2160p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1440p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f206%2ffile%2f*%2f*-720p%2f*!%2fstream%2f206%2ffile%2f*%2f*-480p%2f*!%2fstream%2f206%2ffile%2f*%2f*-360p%2f*~id=90991601~data=hdntl~hmac=345afd9b081b0dd10cb59c6a10e8eb3e0801c748f34a1c56b75674aab029d88d
+
+#EXTINF:-1 tvg-id="moji_480" tvg-name="MOJI 480p (1.2Mbps)" tvg-logo="https://www.vidio.com/favicon.ico" group-title="Vidio",MOJI 480p (1.2Mbps)
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/stream.mpd?hdntl=exp=1785485213~acl=%2fstream%2f206%2ffile%2fstream.mpd!%2fstream%2f206%2ffile%2f*%2faac%2f*!%2fstream%2f206%2ffile%2f*%2f*-2160p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1440p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f206%2ffile%2f*%2f*-720p%2f*!%2fstream%2f206%2ffile%2f*%2f*-480p%2f*!%2fstream%2f206%2ffile%2f*%2f*-360p%2f*~id=90991601~data=hdntl~hmac=345afd9b081b0dd10cb59c6a10e8eb3e0801c748f34a1c56b75674aab029d88d
+
+#EXTINF:-1 tvg-id="moji_360" tvg-name="MOJI 360p (1.0Mbps)" tvg-logo="https://www.vidio.com/favicon.ico" group-title="Vidio",MOJI 360p (1.0Mbps)
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/stream.mpd?hdntl=exp=1785485213~acl=%2fstream%2f206%2ffile%2fstream.mpd!%2fstream%2f206%2ffile%2f*%2faac%2f*!%2fstream%2f206%2ffile%2f*%2f*-2160p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1440p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f206%2ffile%2f*%2f*-720p%2f*!%2fstream%2f206%2ffile%2f*%2f*-480p%2f*!%2fstream%2f206%2ffile%2f*%2f*-360p%2f*~id=90991601~data=hdntl~hmac=345afd9b081b0dd10cb59c6a10e8eb3e0801c748f34a1c56b75674aab029d88d
+
+#EXTINF:-1 tvg-id="moji_360" tvg-name="MOJI 360p (0.7Mbps)" tvg-logo="https://www.vidio.com/favicon.ico" group-title="Vidio",MOJI 360p (0.7Mbps)
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/206/file/stream.mpd?hdntl=exp=1785485213~acl=%2fstream%2f206%2ffile%2fstream.mpd!%2fstream%2f206%2ffile%2f*%2faac%2f*!%2fstream%2f206%2ffile%2f*%2f*-2160p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1440p%2f*!%2fstream%2f206%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f206%2ffile%2f*%2f*-720p%2f*!%2fstream%2f206%2ffile%2f*%2f*-480p%2f*!%2fstream%2f206%2ffile%2f*%2f*-360p%2f*~id=90991601~data=hdntl~hmac=345afd9b081b0dd10cb59c6a10e8eb3e0801c748f34a1c56b75674aab029d88d
