@@ -1,0 +1,6 @@
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="SPORT",BEIN SPORTS 2 AUSTRALIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.2.au.m3u8
